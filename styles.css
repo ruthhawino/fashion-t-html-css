@@ -5,6 +5,11 @@
     background-color: wheat;
 }
 
+.body{
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
 .statement1{
     color: white;
     margin-top: 10%;
@@ -120,6 +125,7 @@
     margin-left: 50%;
     padding:2%;
     font-size: xx-large;
+    border-radius: 50%;
 }
 .woman{
     background-image: url(/images/gal.jpg);
