@@ -1,0 +1,164 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 3%;
+    background-color: wheat;
+}
+
+.statement1{
+    color: white;
+    margin-top: 10%;
+    margin-left: 5%;
+}
+.pic1{
+    width: 60%;
+    height: 60%;
+}
+
+.pic2{
+    width: 80%;
+    height: 60%;
+}
+.baton3{
+    background-color: violet;
+    padding: 2%;
+    align-items: center;
+    margin-left: 50%;
+    margin-bottom: 3%;
+    text-decoration: solid;
+    color: white;
+}
+
+.picc2{
+    width: 90%;
+    height: 60%;
+}
+.introduction{
+    display: flex;
+    background-color:rgb(67, 1, 105);
+    gap: 3%;
+
+}
+.baton1{
+    padding: 4%;
+    text-decoration: solid;
+    color: white;
+    background-color:violet;
+}
+.title1{
+    text-align: center;
+}
+.subtitle1{
+    display: flex;
+}
+.images{
+    display: flex;
+    justify-content: space-between;
+}
+.pictures{
+    display:flex;
+    background-color:whitesmoke;
+}
+.picture{
+    display: block;
+}
+.shoe1{
+    background-image: url(/images/athletic.png);
+    background-size:auto;
+    background-repeat: no-repeat;
+    text-decoration: solid;
+    color:white;
+    padding:5%;
+    padding-left: 10%;
+    background-color:rgb(32, 31, 31);
+    width:10%;
+    margin-left: 20%;
+}
+.shoe2{
+    background-image: url(/images/BA.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    text-decoration: solid;
+    padding:50px;
+    width: 100%;
+    margin-left:70%;
+}
+
+.shoe3{
+    background-image: url(/images/tryingshoe.jpeg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    text-decoration: solid;
+    color: white;
+    padding: 50px;
+    width: 100%;
+    margin-left: 70%;
+}
+
+
+.title3{
+    text-align: center;
+}
+
+.footer{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    background-color: whitesmoke;
+    margin-top: 2%;
+}
+
+.footer1{
+    display:block;
+    list-style: none;
+    justify-content: space-between;
+}
+
+.baton2{
+    color: orangered;
+    align-items: center;
+    margin-left: 50%;
+    padding:2%;
+    font-size: xx-large;
+}
+.woman{
+    background-image: url(/images/gal.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding:25%;
+}
+.icons{
+    font-size: xx-large;
+    color:blue;
+}
+
+.first{
+    color: blue;
+    font-size: x-large;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
